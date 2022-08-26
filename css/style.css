@@ -1,0 +1,47 @@
+           .facebook {
+               width: 2%;
+               margin-left: 8%;
+               margin-right: 2%;
+           }
+           
+           .twitter {
+               width: 2%;
+               margin-right: 2%;
+           }
+           
+           .instagram {
+               width: 2%;
+               margin-right: 2%;
+           }
+           
+           .pinterest {
+               width: 2%;
+               margin-right: 2%;
+           }
+           
+           .youtube {
+               width: 2%;
+               margin-right: 20%;
+           }
+           
+           .wedding {
+               width: 20%;
+               margin-right: 25%;
+           }
+           
+           .search {
+               width: 1.5%;
+           }
+           
+           .listing {
+               display: flex;
+               list-style-type: none;
+           }
+           
+           .list {
+               margin-right: 2%;
+           }
+           
+           .chat {
+               margin-bottom: 50%;
+           }
